@@ -1,6 +1,6 @@
 .card-button {
   padding: 4px 8px;
-  background-color: #ececec;
+  background-color: rgb(228, 228, 228);
   border-radius: 4px;
   transition: 0.3s;
   opacity: 0;
@@ -9,5 +9,5 @@
 }
 
 .card-button:hover {
-  background-color: #d4d4d4;
+  background-color: rgb(243, 243, 243);
 }
