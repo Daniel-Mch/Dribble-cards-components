@@ -1,0 +1,13 @@
+.card-button {
+  padding: 4px 8px;
+  background-color: #ececec;
+  border-radius: 4px;
+  transition: 0.3s;
+  opacity: 0;
+  display: inline-block;
+  margin: 8px;
+}
+
+.card-button:hover {
+  background-color: #d4d4d4;
+}

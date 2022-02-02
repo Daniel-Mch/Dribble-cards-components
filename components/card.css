@@ -1,0 +1,46 @@
+.cards-container {
+  display: flex;
+}
+
+.card-container {
+    margin: 48px;
+}
+
+.card-white {
+  width: 240px;
+  background-color: white;
+  padding: 8px;
+  box-shadow: 0 2px 8px rgba(17, 17, 17, 0.1);
+}
+
+.card-white:hover .card-button {
+  opacity: 1;
+}
+
+.card-image-container {
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+}
+
+.card-white .list-inline {
+  color: grey;
+}
+
+.card-white .list-inline li {
+  margin: 2px;
+}
+
+.card-icons-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-icons-wrapper i {
+  margin-right: 2px;
+}
+.card-user-wrapper {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+}
