@@ -35,6 +35,7 @@
 
 .card-white .list-inline li {
   margin: 2px;
+  cursor: pointer;
 }
 
 .card-icons-wrapper i {
